@@ -1,4 +1,4 @@
-### Salve. Sou o Thiago Balonyi, desenvolvedor front-end. 👋
+### Salve. Sou o Thiago Balonyi, desenvolvedor front-end jr. 👋
 
 <div align="center">
   <a href="https://github.com/thiagobalonyi">
