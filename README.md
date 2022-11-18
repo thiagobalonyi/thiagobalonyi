@@ -1,4 +1,4 @@
-### What's up? I'm Thiago Balonyi, fullStack developer front-end. 👋
+### What's up? I'm Thiago Balonyi, fullStack web developer. 👋
 
 <div align="center">
   <a href="https://github.com/thiagobalonyi">
