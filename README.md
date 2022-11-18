@@ -1,4 +1,4 @@
-### E aí, beleza? Sou o Thiago Balonyi, desenvolvedor front-end jr. 👋
+### What's up? I'm Thiago Balonyi, fullStack developer front-end. 👋
 
 <div align="center">
   <a href="https://github.com/thiagobalonyi">
@@ -17,6 +17,7 @@
   <img align="center" alt="tico-Gulp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg">
   <img align="center" alt="tico-Less" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg">
   <img align="center" alt="tico-Grunt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg">
+  <img align="center" alt="tico-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
    
 </div>
   
