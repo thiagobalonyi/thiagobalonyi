@@ -1,4 +1,4 @@
-### What's up? I'm Thiago Balonyi, fullStack web developer. 👋
+### E ai? Eu sou Thiago Balonyi, desenvolvedor web full stack. 👋
 
 <div align="center">
   <a href="https://github.com/thiagobalonyi">
